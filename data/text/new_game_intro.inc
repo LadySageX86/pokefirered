@@ -7,8 +7,7 @@ gNameChoice_Green::
 gNameChoice_Red::
     .string "MEKWE'K$" 
 
-gNameChoice_Leaf::
-    .string "NIPI$" 
+gNameChoice_Leaf:: .string "NIPI$" 
 
 gNameChoice_Fire::
     .string "PUKTEW$" 
@@ -150,34 +149,34 @@ gControlsGuide_Text_LRButtons::
     .string "Iknmuetoq apoqonmati'l.$"
 
 gOakSpeech_Text_AskPlayerGender::
-    .string "K'il lpa'tuj kisna e'pite'ji'j?$"
+    .string "Ki'l lpa'tuj kisna e'pite'ji'j?$"
 
 gPikachuIntro_Text_Page1::
     .string "Uks'tqamu wejkwa'tiek,\n"
-    .string "poqtamkita'ieg ta'n k'il nikanus.\n"
+    .string "poqtamkita'iek ta'n ki'l nikanus.\n"
     .string "\n"
     .string "Keluatl l'nu aq pa'qawajeimatl\n"
     .string "ms't tami, kutann, awti'l,\n"
     .string "kisna elmaqei'l.\n"
-    .string "Kekina'masultieg ms't koqwei.$"
+    .string "Kekina'masultiek ms't koqwei.$"
 
 gPikachuIntro_Text_Page2::
-    .string "Pilei'k awti'jl pana's'k ta'n k'il\n"
+    .string "Pilei'k awti'jl pana's'k ta'n ki'l\n"
     .string "mawitqo'tmu'tijik, wissuiknematl,\n"
     .string "aq pa'qawajeimatl.\n"
     .string "\n"
-    .string "Jijuaqa, l'nu kaqamutuit k'il\n"
+    .string "Jijuaqa, l'nu kaqamutuit ki'l\n"
     .string "aq jujij kimteluit.\n"
     .string "Melkitoltiek, saputaqatmek!$"
 
 gPikachuIntro_Text_Page3::
-    .string "Through your adventure, we hope\n"
-    .string "that you will interact with all sorts\n"
-    .string "of people and achieve personal growth.\n"
-    .string "That is our biggest objective.\n"
+    .string "K'es poqtamkita'iek, jiptuk\n"
+    .string "welteskmek te'sit l'nu\n"
+    .string "aq nestu'a'tiek.\n"
+    .string "Lkowaqan espe'k.\n"
     .string "\n"
-    .string "Press the A Button, and let your\n"
-    .string "adventure begin!$"
+    .string "Esna'toq (A) pisoqos'ti,\n"
+    .string "aq poqtamkita'sit!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
     .string "Kwe'!\n"
@@ -194,41 +193,40 @@ gOakSpeech_Text_IsInhabitedFarAndWide::
     .string "…POKéMON wiaqqatmu'tijik na'te'l!$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For some people, POKéMON are pets.\n"
-    .string "Others use them for battling.\p"
-    .string "As for myself…\p"
-    .string "I study POKéMON as a profession.\p$"
+    .string "Alt l'nu kelo'tk POKéMON uktue'mual.\n"
+    .string "Iktikik e'watl nekmow matnk.\p"
+    .string "Ni'n…\p"
+    .string "Kekina'masi nujitu POKéMON.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-    .string "But first, tell me a little about\n"
-    .string "yourself.\p$"
+    .string "Tmk, aknimatl k'il.\p$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
-    .string "Koqwei net k'il wisun?$"
+    .string "Koqwei net ki'lewei wisun?\p$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-    .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "Ketloqo…\n"
+    .string "Ki'lewei wisun {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
-    .string "This is my grandson.\p"
-    .string "He's been your rival since you both\n"
-    .string "were babies.\p"
-    .string "…Erm, what was his name now?$"
+    .string "Nuji'jg.\p"
+    .string "Ki'l matnk nekm kaspiew kitk\n"
+    .string "mijua'ji'jk.\p"
+    .string "…Erm, koqwei net nuji'jg wisun?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-    .string "Your rival's name, what was it now?$"
+    .string "Nuji'jg wisun, koqwei net?$"
 
 gOakSpeech_Text_ConfirmRivalName::
     .string "…Er, was it {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
-    .string "That's right! I remember now!\n"
-    .string "His name is {RIVAL}!\p$"
+    .string "Ketloqo! Mikwite'tm!\n"
+    .string "Nuji'jg wisun {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
-    .string "Your very own POKéMON legend is\n"
+    .string "Ki'lewei POKéMON legend is\n"
     .string "about to unfold!\p"
     .string "A world of dreams and adventures\n"
     .string "with POKéMON awaits! Let's go!$"
