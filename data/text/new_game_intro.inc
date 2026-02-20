@@ -1,17 +1,17 @@
 gOtherText_NewName::
-    .string "NEW NAME$"
+    .string "PILEI WISUN$" 
 
 gNameChoice_Green::
-    .string "GREEN$"
+    .string "ESGIT$" 
 
 gNameChoice_Red::
-    .string "RED$"
+    .string "MEGWE'G$" 
 
 gNameChoice_Leaf::
-    .string "LEAF$"
+    .string "NIPI$" 
 
 gNameChoice_Fire::
-    .string "FIRE$"
+    .string "PUGTEW$" 
 
 gNameChoice_Gary::
     .string "GARY$"
@@ -125,21 +125,19 @@ gNameChoice_Suzi::
     .string "SUZI$"
 
 gControlsGuide_Text_Intro::
-    .string "The various buttons will be explained in\n"
-    .string "the order of their importance.$"
+    .string "Gegina'mul te'sit pisoqos'ti espe'g$" 
 
 gControlsGuide_Text_DPad::
-    .string "Moves the main character.\n"
-    .string "Also used to choose various data\n"
-    .string "headings.$"
+    .string "Uggwata'q.\n" 
+    .string "Elg megnatl te'sit elqwanig.$"
 
 gControlsGuide_Text_AButton::
-    .string "Used to confirm a choice, check\n"
-    .string "things, chat, and scroll text.$"
+    .string "Welte'tg ilsutg, pa'qawajeimatl,\n"
+    .string "sespewo'gwet, aja'sit glusuaqan.$"
 
 gControlsGuide_Text_BButton::
-    .string "Used to exit, cancel a choice,\n"
-    .string "and cancel a mode.$"
+    .string "Wejitu'wet, moqwa' ilsutg,\n"
+    .string "moqwa' newtnemi'g.$"
 
 gControlsGuide_Text_StartButton::
     .string "Press this button to open the\n"
