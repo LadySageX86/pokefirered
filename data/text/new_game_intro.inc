@@ -14,7 +14,7 @@ gNameChoice_Fire::
     .string "PUKTEW$" 
 
 gNameChoice_Gary::
-    .string "GARY$"
+    .string "TUMA$"
 
 gNameChoice_Kaz::
     .string "KAZ$"
@@ -23,7 +23,7 @@ gNameChoice_Toru::
     .string "TORU$"
 
 gNameChoice_Ash::
-    .string "ASH$"
+    .string "AQAMOQ$"
 
 gNameChoice_Kene::
     .string "KENE$"
@@ -92,7 +92,7 @@ gNameChoice_Michi::
     .string "MICHI$"
 
 gNameChoice_Paula::
-    .string "PAULA$"
+    .string "NE'TATA$"
 
 gNameChoice_June::
     .string "JUNE$"
@@ -101,7 +101,7 @@ gNameChoice_Cassie::
     .string "CASSIE$"
 
 gNameChoice_Rey::
-    .string "REY$"
+    .string "FAE$"
 
 gNameChoice_Seda::
     .string "SEDA$"
@@ -125,7 +125,7 @@ gNameChoice_Suzi::
     .string "SUZI$"
 
 gControlsGuide_Text_Intro::
-    .string "Kekina'mul te'sit pisoqos'ti espe'k$" 
+    .string "Kekina'mul te'sit pisoqos'ti'l espe'k$" 
 
 gControlsGuide_Text_DPad::
     .string "Ukkwata'q.\n" 
@@ -133,7 +133,7 @@ gControlsGuide_Text_DPad::
 
 gControlsGuide_Text_AButton::
     .string "Welte'tk ilsutk, pa'qawajeimatl,\n"
-    .string "sespewo'kwet, aja'sit klusuaqan.$"
+    .string "sespewo'kwet, aja'sit klusuaqann.$"
 
 gControlsGuide_Text_BButton::
     .string "Wejitu'wet, moqwa' ilsutk,\n"
@@ -143,32 +143,30 @@ gControlsGuide_Text_StartButton::
     .string "Pana'latl elqwanik.$"
 
 gControlsGuide_Text_SelectButton::
-    .string "Aja'sit papitaqan aq e'watl\n"
+    .string "Aja'sit papitaqann aq e'watl\n"
     .string "papitaqan espe'k.$"
 
 gControlsGuide_Text_LRButtons::
-    .string "Iknmuetoq apoqonmati.$"
+    .string "Iknmuetoq apoqonmati'l.$"
 
 gOakSpeech_Text_AskPlayerGender::
-    .string "Now tell me. Are you a boy?\n"
-    .string "Or are you a girl?$"
+    .string "K'il lpa'tuj kisna e'pite'ji'j?$"
 
 gPikachuIntro_Text_Page1::
-    .string "In the world which you are about to\n"
-    .string "enter, you will embark on a grand\n"
-    .string "adventure with you as the hero.\n"
+    .string "Uks'tqamu wejkwa'tiek,\n"
+    .string "poqtamkita'ieg ta'n k'il nikanus.\n"
     .string "\n"
-    .string "Speak to people and check things\n"
-    .string "wherever you go, be it towns, roads,\n"
-    .string "or caves. Gather information and\n"
-    .string "hints from every source.$"
+    .string "Keluatl l'nu aq pa'qawajeimatl\n"
+    .string "ms't tami, kutann, awti'l,\n"
+    .string "kisna elmaqei'l.\n"
+    .string "Kekina'masultieg ms't koqwei.$"
 
 gPikachuIntro_Text_Page2::
-    .string "New paths will open to you by helping\n"
-    .string "people in need, overcoming challenges,\n"
-    .string "and solving mysteries.\n"
+    .string "Pilei'g awti'jl pana's'k ta'n k'il\n"
+    .string "mawitqo'tmu'tijik, wissuiknematl,\n"
+    .string "aq pa'qawajeimatl.\n"
     .string "\n"
-    .string "At times, you will be challenged by\n"
+    .string "Jijuaqa, you will be challenged by\n"
     .string "others and attacked by wild creatures.\n"
     .string "Be brave and keep pushing on.$"
 
@@ -182,19 +180,18 @@ gPikachuIntro_Text_Page3::
     .string "adventure begin!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-    .string "Hello, there!\n"
-    .string "Glad to meet you!\p"
-    .string "Welcome to the world of POKéMON!\p"
-    .string "My name is OAK.\p"
-    .string "People affectionately refer to me\n"
-    .string "as the POKéMON PROFESSOR.\p$"
+    .string "Kwe'!\n"
+    .string "Welta'si a's'kul!\p"
+    .string "Pjila'si uks'tqamu POKéMON!\p"
+    .string "Teluisi MIMKWAQAN.\p"
+    .string "Piltu'wi't'k keknue'k\n"
+    .string "POKéMON NUJIKINA'MUET.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "Uks'tqamu…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…is inhabited far and wide by\n"
-    .string "creatures called POKéMON.\p$"
+    .string "…POKéMON wiaqqatmu'tijik na'te'l!$"
 
 gOakSpeech_Text_IStudyPokemon::
     .string "For some people, POKéMON are pets.\n"

@@ -1,5 +1,5 @@
 gText_WouldYouLikeToSaveTheGame::
-	.string "Would you like to save the game?$"
+	.string "Ewi'kiket laskukwaqan?$"
 
 gText_AlreadySaveFile_WouldLikeToOverwrite::
 	.string "There is already a saved file.\n"
