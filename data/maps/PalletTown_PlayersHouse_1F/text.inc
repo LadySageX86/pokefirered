@@ -7,7 +7,7 @@ PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
     .string "KIJU': …Ketloqo.\n"
-    .string "Ms't girls dream of traveling.\l"
+    .string "Ms't e'pite'ji'jk pewiatoq nipa'sit.\l"
     .string "Na t'oq.\p"
     .string "O, e'e. MIMKWAQAN, a'se'k,\n"
     .string "alkwiluatl k'il.$"

@@ -31,7 +31,7 @@ PalletTown_Text_RivalsHouse::
 
 PalletTown_Text_TownSign::
     .string "PUESU KUTAN\n"
-    .string "Shades of your journey await!$"
+    .string "Mimajuaqan st'ke likpenikn minijkl!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
     .string "MIMKWAQAN: Ah, {PLAYER}!\n"

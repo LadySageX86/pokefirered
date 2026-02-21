@@ -1,13 +1,13 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
     .string "{RIVAL}: What, it's only {PLAYER}?\n"
-    .string "Gramps isn't around.$"
+    .string "Nmijka moqwa' tet.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-    .string "{RIVAL}: Gramps!\n"
+    .string "{RIVAL}: Nmijka!\n"
     .string "I'm fed up with waiting!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-    .string "{RIVAL}: Hey! Gramps! No fair!\n"
+    .string "{RIVAL}: Kwe'! Nmijka! No fair!\n"
     .string "What about me?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
@@ -20,7 +20,7 @@ PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
     .string "{RIVAL} received the {STR_VAR_1}\n"
-    .string "from PROF. OAK!$"
+    .string "from MIMKWAQAN!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
     .string "{RIVAL}: My POKéMON looks a lot\n"
@@ -38,7 +38,7 @@ PalletTown_ProfessorOaksLab_Text_RivalDefeat::
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::
-    .string "{RIVAL}: Yeah!\n"
+    .string "{RIVAL}: E'e!\n"
     .string "Am I great or what?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
