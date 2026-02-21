@@ -1,14 +1,14 @@
 PalletTown_Text_OakDontGoOut::
-    .string "OAK: Hey! Wait!\n"
-    .string "Don't go out!$"
+    .string "MIMKWAQAN: Kwe'! Eskipa'tl!\n"
+    .string "Mutt tewiet!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-    .string "OAK: It's unsafe!\n"
-    .string "Wild POKéMON live in tall grass!\p"
-    .string "You need your own POKéMON for\n"
-    .string "your protection.\p"
-    .string "I know!\n"
-    .string "Here, come with me!$"
+    .string "MIMKWAQAN: An'stawtek!\n"
+    .string "Wakasit POKéMON weskowa'sit\p"
+    .string "pita'q msiku! Nuta't POKéMON ukjit\n"
+    .string "ki'lewei ikatk.\p"
+    .string "Geitu!\n"
+    .string "Apaja'sit!$"
 
 PalletTown_Text_RaisingMonsToo::
     .string "I'm raising POKéMON, too.\p"
@@ -21,20 +21,20 @@ PalletTown_Text_CanStoreItemsAndMonsInPC::
     .string "and POKéMON as data via PC.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "OAK POKéMON RESEARCH LAB$"
+    .string "MIMKWAQAN POKéMON KINA'MUO'KUOM$"
 
 PalletTown_Text_PlayersHouse::
-    .string "{PLAYER}'s house$"
+    .string "{PLAYER}'s apsi'kan$"
 
 PalletTown_Text_RivalsHouse::
-    .string "{RIVAL}'s house$"
+    .string "{RIVAL}'s apsi'kan$"
 
 PalletTown_Text_TownSign::
-    .string "PALLET TOWN\n"
+    .string "PUESU KUTAN\n"
     .string "Shades of your journey await!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-    .string "OAK: Ah, {PLAYER}!\n"
+    .string "MIMKWAQAN: Ah, {PLAYER}!\n"
     .string "You're back, are you?\p"
     .string "How much have you filled in your\n"
     .string "POKéDEX?\p"
@@ -57,11 +57,11 @@ PalletTown_Text_CaughtXImpressiveFollowMe::
     .string "Follow me.$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
-    .string "OAK: Ah, {PLAYER}!\n"
+    .string "MIMKWAQAN: Kwe', {PLAYER}!\n"
     .string "You seem to be enjoying traveling.\p"
     .string "Knowing you, {PLAYER}, I can easily\n"
     .string "imagine you going out to even more\l"
     .string "exotic locales.\p"
     .string "Good for you, good for you.\n"
-    .string "Hohoho.$"
+    .string "Qoqoqo.$"
 
