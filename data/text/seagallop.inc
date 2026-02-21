@@ -2,6 +2,7 @@ Text_WhereDoYouWantToGo::
 	.string "おつかれさん！\n"
 	.string "どこに　いきたいんだ？$"
 
+@ APAQAS'SKWIT = contraction of APAQT (sea) and QA'SQKWIT (gallop)
 Text_AllAboardSeagallopNum::
-	.string "All right!\n"
-	.string "All aboard SEAGALLOP HI-SPEED {STR_VAR_1}!$"
+	.string "Etna!\n"
+	.string "Tepa'sit APAQA'SKWIT SUNE'WIT {STR_VAR_1}!$"

@@ -1,30 +1,30 @@
 @ For the NPC in Pallet Town that talks about the Trainer Tips sign
 
 PalletTown_Text_HmmIsThatRight::
-	.string "Hmm…\n"
-	.string "Is that right…$"
+	.string "Quq…\n"
+	.string "Toqo na…$"
 
 PalletTown_Text_OhLookLook::
-	.string "Oh!\n"
-	.string "Look, look!$"
+	.string "O!\n"
+	.string "Ankapt'k, ankapt'k!$"
 
 PalletTown_Text_ReadItReadIt::
-	.string "Read it, read it!$"
+	.string "Ekiljet, ekiljet!$"
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
-	.string "TRAINER TIPS\p"
-	.string "Press START to open the MENU!$"
+	.string "KEKNUIMATL\p"
+	.string "Esna'toq (START) pana'latl ELQWANIK!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
-	.string "Signs are useful, aren't they?$"
+	.string "Wi'katiknn uktapsunikl, na to'q?$"
 
 PalletTown_Text_LookCopiedTrainerTipsSign::
-	.string "Look, look!\p"
-	.string "I copied what it said on one of\n"
-	.string "those TRAINER TIPS signs!$"
+	.string "Ankapt'k, ankapt'k!\p"
+	.string "Napkwetu klusuaqann weket\n"
+	.string "KEKNUIMATL wi'katiknn!$"
 
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
-	.string "TRAINER TIPS!\p"
-	.string "Press START to open the MENU!$"
+	.string "KEKNUIMATL!\p"
+	.string "Esna'toq (START) pana'latl ELQWANIK!$"
