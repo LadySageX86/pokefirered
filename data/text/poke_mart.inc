@@ -13,7 +13,7 @@ Text_QuestionnaireThankYou::
 	.string "future reference.$"
 
 Text_YouKnowThoseWords::
-	.string "Oh, hello!\n"
+	.string "O, kwe'!\n"
 	.string "You know those words?\p"
 	.string "That means you must know about\n"
 	.string "the MYSTERY GIFT.\p"
@@ -25,5 +25,5 @@ Text_YouCanAccessMysteryGift::
 	.string "access the MYSTERY GIFT.$"
 
 Text_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
+	.string "Wela'lin for accessing the\n"
 	.string "MYSTERY GIFT System.$"

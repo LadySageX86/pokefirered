@@ -2,25 +2,25 @@ gText_WouldYouLikeToSaveTheGame::
 	.string "Ewi'kiket laskukwaqan?$"
 
 gText_AlreadySaveFile_WouldLikeToOverwrite::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "Laskukwaqan ewi'k'k ki's.\n"
+	.string "Ewi'kiket app?$"
 
 gText_SavingDontTurnOffThePower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "EWI'KIKET…\n"
+	.string "MOQWA' NAQASUA'TOQ!$"
 
 gText_PlayerSavedTheGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} ewi'kiket laskukwaqan.$"
 
 gText_SaveFailed2::
 	.string "セーブに　しっぱい　しました‥$"
 
 gText_DifferentGameFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "JIPALATL!\p"
+	.string "Istue'k laskukwaqan\n"
+	.string "ewi'k'k ki's.\p"
+	.string "Ewi'kiket nike', kisanatl istue'k\n"
+	.string "laskukwaqan. Papitaqann aq\l"
+	.string "POKéMON kisnatl iapjiw.\p"
+	.string "Ewi'kiket nike'\n"
+	.string "aq kisanatl istue'k laskukwaqan?$"
