@@ -125,7 +125,7 @@ gNameChoice_Suzi::
     .string "SUZI$"
 
 gControlsGuide_Text_Intro::
-    .string "Kekina'mul te'sit pisoqos'ti'l espe'k$" 
+    .string "Kekina'mul te'sit pisoqos'ti'l espe'k.$" 
 
 gControlsGuide_Text_DPad::
     .string "Ukkwata'q.\n" 

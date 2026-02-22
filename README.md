@@ -1,6 +1,7 @@
 # Pokémon PuktewMekwe'k aq NipiEskit
+## Managed by Team NipiEskit (nipieskit@gmail.com)
 
-Pjila'si! This is a Mi'kmaq fan-translation based on the decompilation of Pokémon FireRed and LeafGreen. This project exists as an effort of language preservation, as there are only about 8000 native Mi'kmaq speakers living in the world today. I myself am still learning, but I hope that this project will help motivate and grow awareness of this beautiful language and culture. 
+Pjila'si! This is a Mi'kmaq fan-translation based on the decompilation of Pokémon FireRed and LeafGreen. This project exists as an effort of language preservation, as there are only about 8000 native Mi'kmaq speakers living in the world today. I myself am still learning, but I hope that this project will help motivate and grow awareness of this beautiful language and culture. If you're interested in getting involved, please feel free to [contact us!](mailto:nipieskit@gmail.com)
 
 It builds the following ROM images:
 
