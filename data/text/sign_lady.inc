@@ -17,7 +17,7 @@ PalletTown_Text_PressStartToOpenMenu::
 	.string "Esna'toq (START) pana'latl ELQWANIK!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
-	.string "Wi'katiknn uktapsunikl, na to'q?$"
+	.string "Wi'katiknn uktapsunikl, toqo na?$"
 
 PalletTown_Text_LookCopiedTrainerTipsSign::
 	.string "Ankapt'k, ankapt'k!\p"

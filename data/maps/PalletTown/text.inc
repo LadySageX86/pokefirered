@@ -30,8 +30,8 @@ PalletTown_Text_RivalsHouse::
     .string "{RIVAL}'s apsi'kan$"
 
 PalletTown_Text_TownSign::
-    .string "PUESU KUTAN\n"
-    .string "Mimajuaqan st'ke likpenikn minijkl!$"
+    .string "WALQWAN KUTAN\n"
+    .string "Nipetekmu'tiek milamu'kl!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
     .string "MIMKWAQAN: Ah, {PLAYER}!\n"
