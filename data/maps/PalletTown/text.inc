@@ -1,9 +1,9 @@
 PalletTown_Text_OakDontGoOut::
-    .string "MIMKWAQAN: Kwe'! Eskipa'tl!\n"
+    .string "MIMKWAN: Kwe'! Eskipa'tl!\n"
     .string "Mutt tewiet!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-    .string "MIMKWAQAN: An'stawtek!\n"
+    .string "MIMKWAN: An'stawtek!\n"
     .string "Wakasit POKéMON weskowa'sit\p"
     .string "pita'q msiku! Nuta't POKéMON ukjit\n"
     .string "ki'lewei ikatk.\p"
@@ -18,23 +18,23 @@ PalletTown_Text_RaisingMonsToo::
 PalletTown_Text_CanStoreItemsAndMonsInPC::
     .string "Pu'taliewe'l piltui!\p"
     .string "Ika'toq aq mawo'toqol\n"
-    .string "papitaqan aq POKéMON piteg.$"
+    .string "papitaqan aq POKéMON pitek.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "MIMKWAQAN POKéMON KINA'MUO'KUOM$"
+    .string "MIMKWAN POKéMON KINA'MUO'KUOM$"
 
 PalletTown_Text_PlayersHouse::
-    .string "{PLAYER}'s apsi'kan$"
+    .string "{PLAYER} apsi'kan$"
 
 PalletTown_Text_RivalsHouse::
-    .string "{RIVAL}'s apsi'kan$"
+    .string "{RIVAL} apsi'kan$"
 
 PalletTown_Text_TownSign::
     .string "WALQWAN KJIKAN\n"
     .string "Nipetekmu'tiek milamu'kl!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-    .string "MIMKWAQAN: O, {PLAYER}!\n"
+    .string "MIMKWAN: O, {PLAYER}!\n"
     .string "Ki'l apaja'sit?\p"
     .string "Ta'sit k'il ewi'k'k ki'lewei\n"
     .string "POKéDEX?\p"
@@ -57,7 +57,7 @@ PalletTown_Text_CaughtXImpressiveFollowMe::
     .string "Poqtukkwalatl.$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
-    .string "MIMKWAQAN: Kwe', {PLAYER}!\n"
+    .string "MIMKWAN: Kwe', {PLAYER}!\n"
     .string "Ki'l teleiaq kesatk ukkwata'q.\p"
     .string "Kaqikjij'k ki'l, {PLAYER},\n"
     .string "milita'si ki'l poqtamka'sit\l"

@@ -183,7 +183,7 @@ gOakSpeech_Text_WelcomeToTheWorld::
     .string "Kwe'!\n"
     .string "Welta'si a's'kul!\p"
     .string "Pjila'si wksitqamuk POKéMON!\p"
-    .string "Teluisi MIMKWAQAN.\p"
+    .string "Teluisi MIMKWAN.\p"
     .string "Piltu'wi't'k keknue'k\n"
     .string "POKéMON NUJIKINA'MUET.\p$"
 

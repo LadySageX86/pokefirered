@@ -2,14 +2,14 @@ PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
     .string "KIJU': …Ketloqo.\n"
     .string "Ms't lpa'tujk naqt'k wikuaq.\l"
     .string "Na t'oq.\p"
-    .string "O, e'e. MIMKWAQAN, a'se'k,\n"
+    .string "O, e'e. MIMKWAN, a'se'k,\n"
     .string "alkwiluatl k'il.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
     .string "KIJU': …Ketloqo.\n"
     .string "Ms't e'pite'ji'jk pewiatoq nipa'sit.\l"
     .string "Na t'oq.\p"
-    .string "O, e'e. MIMKWAQAN, a'se'k,\n"
+    .string "O, e'e. MIMKWAN, a'se'k,\n"
     .string "alkwiluatl k'il.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::

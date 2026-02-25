@@ -20,7 +20,7 @@ PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
     .string "{RIVAL} mesnatl {STR_VAR_1}\n"
-    .string "MIMKWAQAN!$"
+    .string "MIMKWAN!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
     .string "{RIVAL}: Welamuksultiek\n"
@@ -148,7 +148,7 @@ PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
     .string "You have something for me?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-    .string "{PLAYER} nutateji'putoq MIMKWAQAN PARCEL.$"
+    .string "{PLAYER} nutateji'putoq MIMKWAN PARCEL.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
     .string "Ah! \n"
@@ -157,7 +157,7 @@ PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
     .string "Thank you!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
-    .string "MIMKWAQAN: Na to'q!\n"
+    .string "MIMKWAN: Na to'q!\n"
     .string "Etamul kitk.$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
@@ -168,12 +168,12 @@ PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
     .string "It's a high-tech encyclopedia!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
-    .string "MIMKWAQAN: {PLAYER} aq {RIVAL}.\n"
+    .string "MIMKWAN: {PLAYER} aq {RIVAL}.\n"
     .string "Take these with you.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
     .string "{PLAYER} mesn'k POKéDEX\n"
-    .string "from MIMKWAQAN.$"
+    .string "from MIMKWAN.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
     .string "OAK: You can't get detailed data\n"

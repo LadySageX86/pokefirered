@@ -1,17 +1,18 @@
+@ Player speaks to the Great Spirit
 Text_BootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} keluatl kjiniskam.$"
 
 Text_AccessWhichPC::
-	.string "Which PC should be accessed?$"
+	.string "LIKPENIKNN pewantk pana'latl?$"
 
 Text_AccessedSomeonesPC::
-	.string "Accessed Someone's PC.$"
+	.string "Pana'latl NA'TUENN LIKPENIKN.$"
 
 Text_OpenedPkmnStorage::
-	.string "POKéMON Storage System opened.$"
+	.string "POKéMON LIKPENIKNN pana'latl.$"
 
 Text_AccessedPlayersPC::
-	.string "Accessed {PLAYER}'s PC.$"
+	.string "Pana'latl {PLAYER} LIKPENIKNN.$"
 
 Text_AccessedBillsPC::
-	.string "Accessed BILL's PC.$"
+	.string "Pana'latl SUL LIKPENIKNN.$"

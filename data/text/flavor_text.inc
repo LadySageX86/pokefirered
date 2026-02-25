@@ -1,42 +1,41 @@
 @ Flavor text for interacting with various background objects
 
 Text_Bookshelf::
-	.string "It's crammed full of POKéMON\n"
-	.string "books.$"
+	.string "Wajuiknetek POKéMON\n"
+	.string "kekina'matimkewei.$"
 
 Text_NothingButPokemonBooks::
 	.string "ほんだなに　ならんでいるのは\n"
 	.string "ポケモンの　ほん　ばかりだ$"
 
 Text_ATownMap::
-	.string "A TOWN MAP.$"
+	.string "KJIKANN L'SK'J.$"
 
 Text_PokeMartShelf::
-	.string "Wow!\n"
-	.string "Tons of POKéMON stuff!$"
+	.string "W'o!\n"
+	.string "Te'sit POKéMON papitaqann!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-	.string "Dishes and plates are neatly\n"
-	.string "lined up.$"
+	.string "Eptaqann esma'tekl.$"
 
 Text_Kitchen::
-	.string "It smells delicious!\n"
-	.string "Somebody's been cooking here.$"
+	.string "Welima'q!\n"
+	.string "Na'tuen etloqsatl.$"
 
 Text_Dresser::
-	.string "It's a nicely made dresser.\n"
-	.string "It will hold a lot of stuff.$"
+	.string "Uksuateja'taqann welaptm.\n"
+	.string "Ewe'ke'kik.$"
 
 Text_Snacks::
-	.string "There's a pile of snacks here.$"
+	.string "Nana'n mawamk'tekl.$"
 
 Text_PokemartSign::
-	.string "All your item needs fulfilled!\n"
-	.string "POKéMON MART$"
+	.string "Papitaqann ms't tami!\n"
+	.string "POKéMON MAKASAN$"
 
 Text_PokecenterSign::
-	.string "Heal Your POKéMON!\n"
-	.string "POKéMON CENTER$"
+	.string "Nepilatl ki'lewei POKéMON!\n"
+	.string "POKéMON KSNUKO'KUOM$"
 
 Text_Indigo_UltimateGoal::
 	.string "INDIGO PLATEAU\p"
@@ -77,7 +76,7 @@ Text_AdvertisingPoster::
 	.string "all kinds of products.$"
 
 Text_TastyFood::
-	.string "Oh, that smells tasty!\n"
+	.string "O, that smells tasty!\n"
 	.string "It might get the stomach growling!$"
 
 Text_TrashBin::

@@ -7,23 +7,23 @@ Text_FillOutQuestionnaire::
 	.string "Would you like to fill it out?$"
 
 Text_QuestionnaireThankYou::
-	.string "Thank you for taking the time to\n"
+	.string "Wela'lin for taking the time to\n"
 	.string "fill out our questionnaire.\p"
 	.string "Your feedback will be used for\n"
 	.string "future reference.$"
 
 Text_YouKnowThoseWords::
 	.string "O, kwe'!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY GIFT.\p"
-	.string "From now on, you should be\n"
-	.string "receiving MYSTERY GIFTS!$"
+	.string "Ki'l keitoq klusuaqann?\p"
+	.string "To'q ki'l keitoq\n"
+	.string "MYSTERY GIFT.\p"
+	.string "Weja'tekemk, ki'l mesn'k\n"
+	.string "MYSTERY GIFTS!$"
 
 Text_YouCanAccessMysteryGift::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY GIFT.$"
+	.string "Ta'n ki'l ewi'k'k,\n"
+	.string "mesn'k MYSTERY GIFT.$"
 
 Text_ThankYouForAccessingMysteryGift::
-	.string "Wela'lin for accessing the\n"
+	.string "Wela'lin neiapt'k\n"
 	.string "MYSTERY GIFT System.$"
